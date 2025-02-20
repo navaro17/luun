@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /dev/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://luun.gr/sitemap.xml
