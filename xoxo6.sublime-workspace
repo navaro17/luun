@@ -1,0 +1,1239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"font-family\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_pages/about.md",
+			"settings":
+			{
+				"buffer_size": 8827,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					7,
+					1,
+					"paste",
+					null,
+					"AgAAADsBAAAAAAAArQMAAAAAAAAAAAAArQMAAAAAAACtAwAAAAAAAE8EAABMVVVOIGlzIGFuIEF0aGVucy1iYXNlZCBjb21wYW55IHRoYXQgb2ZmZXJzIGhpZ2ggcXVhbGl0eSBhcmNoaXRlY3R1cmFsIGxpZ2h0aW5nIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyAobGlnaHRpbmcgZGVzaWduLCB2YWx1ZSBlbmdpbmVlcmluZywgYmVzcG9rZSBkZXNpZ24sIGNvbnN1bHRpbmcpLiBPdXIgY2xpZW50ZWxlIHByaW1hcmlseSBjb25zaXN0cyBvZiBhcmNoaXRlY3RzLCBpbnRlcmlvciBkZXNpZ25lcnMsIGxpZ2h0aW5nIGRlc2lnbmVycywgZW5naW5lZXJzLCBjb25zdHJ1Y3RvcnMgYXMgd2VsbCBhcyBwcml2YXRlIGNsaWVudHMuIFdlIG1haW5seSBkZXNpZ24gYW5kIGRldmVsb3AgcHJpdmF0ZSwgY29tbWVyY2lhbCBhbmQgY3VsdHVyYWwgcHJvamVjdHMgc3VjaCBhcyByZXNpZGVuY2VzLCBvZmZpY2Ugc3BhY2VzLCByZXRhaWwgc3RvcmVzLCBmb29kICYgYmV2ZXJhZ2Ugc3BhY2VzLCBob3RlbHMsIG11c2V1bXMsIHB1YmxpYyBzcGFjZXMsIGFyY2hhZW9sb2dpY2FsIHNpdGVzLCBjaHVyY2hlcyBhbmQgcGxhY2VzIG9mIHdvcnNoaXAsIHRvIG5hbWUgYSBmZXcuIFlvdSBjYW4gZ2V0IHRvIGtub3cgdXMgYmV0dGVyIGJ5IHJlYWRpbmcgPGEgaHJlZj0ie3sgJy9hcHByb2FjaC8nIHwgcHJlcGVuZDogc2l0ZS5iYXNldXJsIH19Ij5vdXIgYXBwcm9hY2g8L2E+IG9uIGFyY2hpdGVjdHVyYWwgbGlnaHRpbmcsIG9yIG91ciBsaXN0IG9mIDxhIGhyZWY9Int7ICcvZmFxcy8nIHwgcHJlcGVuZDogc2l0ZS5iYXNldXJsIH19Ij5GQVFzPC9hPi4gV2UgdGFrZSBwcmlkZSBpbiBtYWludGFpbmluZyBhIGxvbmctdGVybSBleGNsdXNpdmUgY29vcGVyYXRpb24gd2l0aCBhIGxlYWRpbmcgbWFudWZhY3R1cmVyIHN1Y2ggYXMgPGEgaHJlZj0iaHR0cHM6Ly93d3cuaWd1enppbmkuY29tLyIgdGFyZ2V0PSJfYmxhbmsiIHJlbD0ibm9vcGVuZXIiPmlHdXp6aW5pPC9hPi4gT3VyIGZ1bGwgY29sbGFib3JhdGlvbnMgbGlzdCBjb25zaXN0cyBvZiBib3RoIGVzdGFibGlzaGVkIHdvcmxkLXJlbm93bmVkIG1hbnVmYWN0dXJlcnMgYW5kIG5ldyBkeW5hbWljYWxseSBlbWVyZ2luZyBjb21wYW5pZXMgd2l0aCBhbiBlbXBoYXNpcyBvbiBpbm5vdmF0aW9uLg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA7AQAAAAAAAIoFAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAADsBAAAAAAAAPAEAAAAAAAAAAAAAPAEAAAAAAAA9AQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA7AQAAAAAAADsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					18,
+					1,
+					"paste",
+					null,
+					"AQAAADsBAAAAAAAAbgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA7AQAAAAAAADsBAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFEBAAAAAAAAUQEAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAQAAAAAAAFIBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFEBAAAAAAAAUgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAQAAAAAAAFEBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					25,
+					1,
+					"left_delete",
+					null,
+					"AQAAAF4BAAAAAAAAXgEAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfAQAAAAAAAF8BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAF4BAAAAAAAAXwEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABeAQAAAAAAAF4BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					29,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAADsBAAAAAAAAPAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA7AQAAAAAAADsBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					30,
+					1,
+					"close_tag",
+					{
+						"insert_slash": true
+					},
+					"AQAAADwBAAAAAAAAPQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA8AQAAAAAAADwBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "η3"
+					},
+					"AgAAAD0BAAAAAAAAPgEAAAAAAAAAAAAAPgEAAAAAAAA/AQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AQAAAAAAAD0BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": ">"
+					},
+					"AQAAAD8BAAAAAAAAQAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AQAAAAAAAD8BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					33,
+					3,
+					"left_delete",
+					null,
+					"AwAAAD8BAAAAAAAAPwEAAAAAAAABAAAAPj4BAAAAAAAAPgEAAAAAAAABAAAAMz0BAAAAAAAAPQEAAAAAAAACAAAAzrc",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAQAAAAAAAEABAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "h3>"
+					},
+					"AwAAAD0BAAAAAAAAPgEAAAAAAAAAAAAAPgEAAAAAAAA/AQAAAAAAAAAAAAA/AQAAAAAAAEABAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AQAAAAAAAD0BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "<"
+					},
+					"AQAAAHMBAAAAAAAAdAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABzAQAAAAAAAHMBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					38,
+					1,
+					"close_tag",
+					{
+						"insert_slash": true
+					},
+					"AQAAAHQBAAAAAAAAdQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB0AQAAAAAAAHQBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "h"
+					},
+					"AQAAAHUBAAAAAAAAdgEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB1AQAAAAAAAHUBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "3>"
+					},
+					"AgAAAHYBAAAAAAAAdwEAAAAAAAAAAAAAdwEAAAAAAAB4AQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB2AQAAAAAAAHYBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					51,
+					1,
+					"left_delete",
+					null,
+					"AQAAADsBAAAAAAAAOwEAAAAAAAAFAAAAPC9oMz4",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA7AQAAAAAAAEABAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					54,
+					5,
+					"left_delete",
+					null,
+					"BQAAAHIBAAAAAAAAcgEAAAAAAAABAAAAPnEBAAAAAAAAcQEAAAAAAAABAAAAM3ABAAAAAAAAcAEAAAAAAAABAAAAaG8BAAAAAAAAbwEAAAAAAAABAAAAL24BAAAAAAAAbgEAAAAAAAABAAAAPA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABzAQAAAAAAAHMBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					60,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AAAAAAAAAD0AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					63,
+					1,
+					"paste",
+					null,
+					"AQAAAD4AAAAAAAAAcQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					66,
+					3,
+					"left_delete",
+					null,
+					"AwAAAHABAAAAAAAAcAEAAAAAAAAzAAAAYXJjaGl0ZWN0dXJhbCBsaWdodGluZyBmcm9tIGNvbmNlcHQgdG8gaW5zdGFsbGF0aW9ubwEAAAAAAABvAQAAAAAAAAEAAAAKbgEAAAAAAABuAQAAAAAAAAEAAAAK",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACjAQAAAAAAAHABAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					75,
+					1,
+					"insert",
+					{
+						"characters": "###"
+					},
+					"AwAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AAAAAAAAAD4AAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					76,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEEAAAAAAAAAQgAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					77,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEEAAAAAAAAAQQAAAAAAAAABAAAAIEAAAAAAAAAAQAAAAAAAAAABAAAAIw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAAAAAAAAAEIAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					78,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEAAAAAAAAAAQQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAEAAAAAAAAAAQQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					84,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAEAAAAAAAAAAQQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					87,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEAAAAAAAAAAQAAAAAAAAAABAAAAIw",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAAAAAAAAAEEAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAOYDAAAAAAAA5wMAAAAAAAAAAAAA5wMAAAAAAADoAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADmAwAAAAAAAOYDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					93,
+					1,
+					"paste",
+					null,
+					"AQAAAOgDAAAAAAAAvAQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADoAwAAAAAAAOgDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					98,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAALwEAAAAAAAAvQQAAAAAAAAAAAAAvQQAAAAAAAC+BAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC8BAAAAAAAALwEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					99,
+					1,
+					"paste",
+					null,
+					"AQAAAL4EAAAAAAAAgQYAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC+BAAAAAAAAL4EAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n\n\n"
+					},
+					"BQAAAIIGAAAAAAAAgwYAAAAAAAAAAAAAgwYAAAAAAACEBgAAAAAAAAAAAACEBgAAAAAAAIUGAAAAAAAAAAAAAIUGAAAAAAAAhgYAAAAAAAAAAAAAhgYAAAAAAACHBgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACCBgAAAAAAAIIGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": "###"
+					},
+					"AwAAAIMGAAAAAAAAhAYAAAAAAAAAAAAAhAYAAAAAAACFBgAAAAAAAAAAAACFBgAAAAAAAIYGAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACDBgAAAAAAAIMGAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					105,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIYGAAAAAAAAhwYAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACGBgAAAAAAAIYGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					113,
+					1,
+					"paste",
+					null,
+					"AQAAAIcGAAAAAAAApgYAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACHBgAAAAAAAIcGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					118,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKcGAAAAAAAAqAYAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACnBgAAAAAAAKcGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					119,
+					1,
+					"paste",
+					null,
+					"AQAAAKgGAAAAAAAAggkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACoBgAAAAAAAKgGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					120,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAIIJAAAAAAAAgwkAAAAAAAAAAAAAgwkAAAAAAACECQAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACCCQAAAAAAAIIJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					125,
+					1,
+					"insert",
+					{
+						"characters": "###"
+					},
+					"AwAAAIQJAAAAAAAAhQkAAAAAAAAAAAAAhQkAAAAAAACGCQAAAAAAAAAAAACGCQAAAAAAAIcJAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACECQAAAAAAAIQJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					126,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAIcJAAAAAAAAiAkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACHCQAAAAAAAIcJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					127,
+					1,
+					"paste",
+					null,
+					"AQAAAIgJAAAAAAAAogkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACICQAAAAAAAIgJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					128,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKIJAAAAAAAAowkAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACiCQAAAAAAAKIJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					131,
+					1,
+					"paste",
+					null,
+					"AQAAAKMJAAAAAAAA8wwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACjCQAAAAAAAKMJAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					136,
+					1,
+					"paste",
+					null,
+					"AQAAAPMMAAAAAAAAAQ0AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADzDAAAAAAAAPMMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					141,
+					1,
+					"insert",
+					{
+						"characters": "###"
+					},
+					"AwAAAPMMAAAAAAAA9AwAAAAAAAAAAAAA9AwAAAAAAAD1DAAAAAAAAAAAAAD1DAAAAAAAAPYMAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADzDAAAAAAAAPMMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					142,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAPYMAAAAAAAA9wwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD2DAAAAAAAAPYMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					147,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAYNAAAAAAAABw0AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGDQAAAAAAAAYNAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					148,
+					1,
+					"paste",
+					null,
+					"AQAAAAcNAAAAAAAAQg8AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAHDQAAAAAAAAcNAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					151,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEMPAAAAAAAAQw8AAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEDwAAAAAAAEQPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					158,
+					3,
+					"left_delete",
+					null,
+					"AwAAAOgDAAAAAAAA6AMAAAAAAADUAAAAV2Ugb2ZmZXIgZW5kLXRvLWVuZCBhcmNoaXRlY3R1cmFsIGxpZ2h0aW5nIHNlcnZpY2VzIGFuZCBoaWdoLXF1YWxpdHkgcHJvZHVjdHMuIExpZ2h0aW5nIHNvbHV0aW9ucywgY2FyZWZ1bGx5IGRldmVsb3BlZCB0byBlbnN1cmUgb3V0c3RhbmRpbmcgcGVyZm9ybWFuY2UsIGV4Y2VsbGVuY2UgaW4gZnVuY3Rpb25hbGl0eSwgYW5kIHNvcGhpc3RpY2F0ZWQgYWVzdGhldGljcy7nAwAAAAAAAOcDAAAAAAAAAQAAAArmAwAAAAAAAOYDAAAAAAAAAQAAAAo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC8BAAAAAAAAOgDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					163,
+					1,
+					"insert",
+					{
+						"characters": "####"
+					},
+					"BAAAAM0IAAAAAAAAzggAAAAAAAAAAAAAzggAAAAAAADPCAAAAAAAAAAAAADPCAAAAAAAANAIAAAAAAAAAAAAANAIAAAAAAAA0QgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADNCAAAAAAAAM0IAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					164,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAANEIAAAAAAAA0ggAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADRCAAAAAAAANEIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					167,
+					1,
+					"insert",
+					{
+						"characters": "####"
+					},
+					"BAAAAFsKAAAAAAAAXAoAAAAAAAAAAAAAXAoAAAAAAABdCgAAAAAAAAAAAABdCgAAAAAAAF4KAAAAAAAAAAAAAF4KAAAAAAAAXwoAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABbCgAAAAAAAFsKAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					168,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAF8KAAAAAAAAYAoAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABfCgAAAAAAAF8KAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					173,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAM8IAAAAAAAA0AgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADPCAAAAAAAAM8IAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					176,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAF4KAAAAAAAAXwoAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABeCgAAAAAAAF4KAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					179,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAALAIAAAAAAAAsQgAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACwCAAAAAAAALAIAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					182,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAACwMAAAAAAAALQwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAsDAAAAAAAACwMAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					185,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAK8FAAAAAAAAsAUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACvBQAAAAAAAK8FAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					196,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAOYDAAAAAAAA5wMAAAAAAAAAAAAA5wMAAAAAAADoAwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADmAwAAAAAAAOYDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					197,
+					1,
+					"paste",
+					null,
+					"AQAAAOgDAAAAAAAABAUAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADoAwAAAAAAAOgDAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					200,
+					3,
+					"left_delete",
+					null,
+					"AwAAAPcEAAAAAAAA9wQAAAAAAAAOAAAAQWJvdXQg4oCiIExVVU72BAAAAAAAAPYEAAAAAAAAAQAAAAr1BAAAAAAAAPUEAAAAAAAAAQAAAAo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADBQAAAAAAAPcEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					203,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPUEAAAAAAAA9QQAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD2BAAAAAAAAPYEAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					210,
+					1,
+					"cut",
+					null,
+					"AQAAAHoGAAAAAAAAegYAAAAAAABBAAAAUGFydG5lciB3aXRoIHVzIGFuZCBsZXQgdXMgaWxsdW1pbmF0ZSB5b3VyIGFyY2hpdGVjdHVyYWwgdmlzaW9uLgo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB6BgAAAAAAALsGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					211,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHkGAAAAAAAAeQYAAAAAAAABAAAAIA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB6BgAAAAAAAHoGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					212,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAHkGAAAAAAAAegYAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB5BgAAAAAAAHkGAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					215,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAEkPAAAAAAAASg8AAAAAAAAAAAAASg8AAAAAAABLDwAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABJDwAAAAAAAEkPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					216,
+					1,
+					"paste",
+					null,
+					"AQAAAEsPAAAAAAAAjA8AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABLDwAAAAAAAEsPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					217,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIsPAAAAAAAAiw8AAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACMDwAAAAAAAIwPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"cut",
+					{
+						"event":
+						{
+							"modifier_keys":
+							{
+							},
+							"text_point": 356,
+							"x": 764.79296875,
+							"y": 208.8125
+						}
+					},
+					"AQAAAHcAAAAAAAAAdwAAAAAAAAD7AAAAPGRpdiBjbGFzcz0idmlkZW9XcmFwcGVyIj48aWZyYW1lIHdpZHRoPSI1NjAiIGhlaWdodD0iMzE1IiBzcmM9Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkLzZjMFdNTTZpSFFNIiBmcmFtZWJvcmRlcj0iMCIgYWxsb3c9ImFjY2VsZXJvbWV0ZXI7IGF1dG9wbGF5OyBjbGlwYm9hcmQtd3JpdGU7IGVuY3J5cHRlZC1tZWRpYTsgZ3lyb3Njb3BlOyBwaWN0dXJlLWluLXBpY3R1cmUiIGFsbG93ZnVsbHNjcmVlbj48L2lmcmFtZT48L2Rpdj4",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAByAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHYAAAAAAAAAdgAAAAAAAAABAAAACnUAAAAAAAAAdQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAdwAAAAAAAAB3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAOkCAAAAAAAA6gIAAAAAAAAAAAAA6gIAAAAAAADrAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6QIAAAAAAADpAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AQAAAOsCAAAAAAAA5gMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6wIAAAAAAADrAgAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "_pages/approach-gr.md",
+			"settings":
+			{
+				"buffer_size": 3072,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS - Compressed.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_pages"
+	],
+	"file_history":
+	[
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_pages/contact.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_pages/faqs.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_pages/about.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2025-03-18-crini-and-sophia.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-04-07-kora-bakery.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2018-05-29-for-luminous-people.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2020-09-23-to-enlight-is-to-perform.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2020-09-27-we-bring-fine-architecture-in-the-spotlight.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2020-10-03-in-light-of-a-new-perspective.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2020-10-05-everything-makes-sense-under-the-right-light.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-01-15-innovative-lighting-solutions.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-01-15-let-light-do-its-part.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-04-03-new-trends-in-landscape-architecture.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-04-14-milos-architectural-landscapes.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-05-05-inspired-by-life-illuminated-by-luun.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-05-15-inspired-by-art-illuminated-by-luun.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-05-23-inspired-by-authenticity-illuminated-by-luun.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-06-15-doma-awards-2021.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-07-06-limina-erieta-attali-photography-exhibition.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-12-18-inspired-by-the-unexpected-illuminated-by-luun.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2021-12-19-inspired-by-history-illuminated-by-luun.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2022-05-04-the-critical-role-of-lighting-in-the-after-covid-era.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2023-01-03-doma-diaries-1.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2023-09-28-highlight-1.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/blog/2024-01-01-100-Hotel-Show.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2025-02-20-house-in-crete-3.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2014-02-24-novartis.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2014-05-19-athens-international-airport-central-food-court.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2014-05-27-nikos-koulis-mykonos.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2014-10-06-house-in-portoheli.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2014-10-07-nikos-koulis-athens.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2015-06-06-socar.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2015-08-24-law-office-in-downtown-athens.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2015-09-30-kir-yianni-wine-bar.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2015-10-07-hytra-restaurant.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2015-12-11-to-tsai.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2016-01-27-bank-of-thessaly.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2016-02-01-rotunda.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2016-05-23-dryllerakis-and-associates.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2016-05-30-the-norwegian-embassy.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2016-06-18-οlympiacos-academy.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2016-07-24-eurostatus.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2016-10-14-dr-pharmacy-store.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2016-11-21-goethe-institut-thessaloniki.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2016-12-02-nikira.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-01-22-pediatric-office-in-kifisia.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-02-06-apartment-in-athens-1.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-02-17-house-in-paros-1.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-02-23-oia-treasures.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-03-01-monastery-of-st-lucas.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-04-22-vassilenas.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-05-10-amada-colossos-resort.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-05-16-hair-spa-salon-at-the-grande-bretagne-hotel-in-athens.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-08-24-ottoman-hammam.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-10-11-mira.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-10-20-noel.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-10-20-underground-link.md",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-11-15-kiton-mykonos.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-11-16-the-naxos-apothecary.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-11-24-blum.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-11-27-opera-quarta.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2017-12-04-green-plaza.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-01-04-zurbaran-athens.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-01-18-solid.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-02-25-storeys-foodybar-ghetto-3a.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-03-28-aris-garoufalis-hall.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-03-31-hammam-baths.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-04-03-aesthet-mykonos.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-04-18-nail-ave.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-05-25-frank-and-fame.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-05-25-house-in-thessaloniki-1.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-06-25-dentsu-aegis-network.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-07-05-aesthet-flagship-store.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-08-05-apartment-in-athens-2.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-09-12-marco-bicego-boutique-athens.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-10-06-pancreta-bank-offices.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-10-25-theiko.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-11-13-plastic-surgery-clinic.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-12-12-house-in-athens-1.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2018-12-20-office-in-downtown-athens.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-01-21-interoptica.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-02-25-boccanegra.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-04-25-lalaounis-flagship-store.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-06-12-atlantica-dreams-resort.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-06-25-centre-for-byzantine-culture.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-06-30-zoia-house-the-hill.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-07-12-apartment-in-glyfada.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-08-03-ote-museum.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-09-08-blue-lagoon-ocean.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-09-25-house-in-athens-2.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-10-06-zeus-dione.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2019-12-16-house-in-filothei.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-02-25-kfc-restaurant-at-escape-center.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-04-10-the-lynx-mountain-resort.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-05-02-house-and-atelier.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-05-04-apartment-in-voula.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-05-04-imanoglou.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-05-25-vathi-cove.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-06-18-asian-house.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-06-20-goethe-institut-athens.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-06-22-ivf-unit-at-genesis-hospital.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-06-25-house-in-politeia.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-07-05-olive-era-store.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-09-08-office-building-in-attica.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-09-17-lobby-in-the-2000mkt-building.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-09-18-blue-lagoon-city.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-10-01-butterfly.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-10-21-lpi-offices.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-10-28-dymaean-wall.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-11-25-mirame-athens.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2020-12-15-lobby-in-mitera-hospital.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-01-11-summer-house.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-01-22-choose-offices.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-01-27-pressious-arvanitidis.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-02-02-el-centro.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-03-05-interior-office-space-at-flisvos.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-04-26-archanes-city-hall.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-05-20-gyrotonic-harmony-studio-in-athens.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-06-03-house-in-thessaloniki-2.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-06-15-residence-in-euboea.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-06-17-zitsa-wine-pavilion.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-06-26-house-in-paros-2.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-06-28-the-house-of-the-mosaics-in-sparta.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-08-19-mikri-elia-in-paros.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-09-15-kiton-island.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-10-05-house-in-kea.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-11-10-galerie-lefakis.markdown",
+		"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio/2021-12-21-choux-choux.markdown"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio",
+			"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio,<project filters>",
+			"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio",
+			"/Users/varo17/Library/CloudStorage/GoogleDrive-varopoulos@gmail.com/My Drive/xoxo6/_posts/portfolio,<project filters>",
+			"/Users/varo17/Library/CloudStorage/Dropbox/xoxo6/_posts/portfolio",
+			"/Users/vs/Dropbox/xoxo6/_posts/portfolio",
+			"/Users/vs/Dropbox/xoxo6/_posts/portfolio,<project filters>",
+			"/Users/vs/Dropbox/xoxo6/_posts/portfolio",
+			"/Users/vs/Dropbox/xoxo6",
+			"/Users/vs/Dropbox/xoxo6/_assets/styles/scss",
+			"/Users/vs/Dropbox/xoxo6/_posts/portfolio,<project filters>",
+			"/Users/vs/Dropbox/xoxo6/_posts/portfolio",
+			"/Users/vs/Dropbox/xoxo6/_assets/styles/scss",
+			"/Users/vs/Dropbox/xoxo6/_posts/portfolio",
+			"/Users/vs/Dropbox/xoxo6/_assets/styles,<project filters>",
+			"/Users/vs/Dropbox/xoxo6/_posts/projects",
+			"/Users/vs/Dropbox/xoxo6/_posts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"en-route",
+			"![alt text](/luun/",
+			"config",
+			"sfakianakis",
+			"![alt text](https://navaro17.github.io/luun/assets/",
+			"![alt text](/assets/",
+			"'![alt text](/assets/'",
+			"![alt text](/assets/",
+			"koulis",
+			"k-div",
+			"OPSIS",
+			"Sgoutas",
+			"KG",
+			"Epikyklos",
+			"Vilma",
+			"Alina",
+			"AddOutputFilter",
+			"mod_security",
+			"strict",
+			"property",
+			"all rights",
+			"mtarch",
+			"Paraschi",
+			"Fakaros",
+			"Dire",
+			"dire",
+			"Voula",
+			"Chalandri",
+			"Sotiris",
+			"Chainis",
+			"Hainis",
+			"Voumvakis",
+			"George Karagiannis",
+			"ll-associates",
+			"LL Ass",
+			"LL",
+			"CORE",
+			"GEM",
+			"Sfakianakis",
+			"All images",
+			"acproje",
+			"Roboto",
+			"SF Pro Text",
+			"Epikyklos",
+			"GEM",
+			"Paterakis",
+			"Pangalou",
+			"Kamarinos",
+			"header",
+			"messari",
+			": 600",
+			": bold",
+			"fond-weight",
+			"<dt>",
+			"mavrommati",
+			"mavromati",
+			"|",
+			"and",
+			"Karahalios",
+			"&",
+			"for-more",
+			"the-fun",
+			"the-culture",
+			"the-office",
+			"the-stay",
+			"the-shop",
+			"the-home",
+			"for-more",
+			"the-city",
+			"the-wellbeing",
+			"categories:\n - project",
+			"span",
+			"post-list",
+			"categories: Projects",
+			"description:",
+			"clean",
+			"buildJekyll",
+			"source",
+			"buildJekyllprod",
+			"/images",
+			"src",
+			"dist"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"![alt text]({{ site.baseurl }}/",
+			"![alt text](/luun/assets/",
+			"![alt text](https://navaro17.github.io/luun/assets/",
+			": 500",
+			": 600",
+			"font-weight",
+			"<dt style=\"fond-weight: bold;\">",
+			"portfolio",
+			"categories:\n - portfolio",
+			"li",
+			"categories:\n - project",
+			"categories: Projects\ndescription:",
+			"/assets/images"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_pages/about.md",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8827,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								998,
+								998
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_pages/approach-gr.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1783,
+								1783
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 448.0
+	},
+	"output.exec":
+	{
+		"height": 65.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 97.0
+	},
+	"pinned_build_system": "Packages/SASS-Build/SASS - Compressed.sublime-build",
+	"project": "xoxo6.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 372.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

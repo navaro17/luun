@@ -1,0 +1,38 @@
+---
+layout: default
+---
+<div class="wrapper">
+
+  {% if page.id == "index" or page.tag == "the-office" or page.tag == "the-shop" or page.tag == "the-stay" or page.tag == "the-home" or page.tag == "the-fun" or page.tag == "the-culture" or page.tag == "for-more" %}
+  {% include top-navi-portfolio.html %}
+  {% else %}
+  {% include top-navi-blog.html %}
+  {% endif %}
+
+  <div class="row">
+    
+    {% if page.tag == "the-office" or page.tag == "the-shop" or page.tag == "the-stay" or page.tag == "the-home" or page.tag == "the-fun" or page.tag == "the-culture" or page.tag == "for-more" %}
+    <div class="post-list">
+    {% else %}
+    <div class="column column--center medium-12 large-10">
+      <div class="post" style="top: unset;">
+    {% endif %}
+    
+    {% if page.tag == "the-office" or page.tag == "the-shop" or page.tag == "the-stay" or page.tag == "the-home" or page.tag == "the-fun" or page.tag == "the-culture" or page.tag == "for-more" %}
+    {% for post in page.posts %}
+    {% include post-card.html %}
+      {% endfor %}
+    {% else %}
+    {% for post in page.posts %}
+    {% include blog-item.html %}
+    {% endfor %}
+    {% endif %}
+
+    {% if page.tag == "the-office" or page.tag == "the-shop" or page.tag == "the-stay" or page.tag == "the-home" or page.tag == "the-fun" or page.tag == "the-culture" or page.tag == "for-more" %}
+    </div>
+    {% else %}
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</div>

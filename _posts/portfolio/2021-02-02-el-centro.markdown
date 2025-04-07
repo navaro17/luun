@@ -1,0 +1,33 @@
+---
+layout: post
+title: "El Centro"
+thumb: /assets/images/posts/thumbs/el-centro_thumb.jpg
+categories:
+ - portfolio
+description:
+featured:
+author: 
+tags:
+ - the-office
+---
+
+[El Centro](https://elcentro.oeducat.org/en/) located in Kifisia, Athens, is a cultural space created to promote and spread the Hispanic language and culture in Greece and aims to become a point of reference for the Hispanic world and a meeting place for the Spanish-speaking expatriate community.
+
+<p class="credits">
+    <span class="title">Architect</span>
+        <span class="contributor"><a href="http://www.angelesmira.com">Angeles Mira</a></span>
+    <span class="title">Construction</span>
+        <span class="contributor"><a href="https://epikyklos.gr">Epikyklos</a></span>
+    <span class="title">Photos</span>
+        <span class="contributor"><a href="https://www.spyroshoundphotography.com">Spyros Hound</a></span>
+</p>
+
+![alt text]({{ site.baseurl }}/assets/images/posts/el-centro-01.jpg "El Centro")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/el-centro-02.jpg "El Centro")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/el-centro-03.jpg "El Centro")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/el-centro-04.jpg "El Centro")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/el-centro-05.jpg "El Centro")

@@ -1,0 +1,16 @@
+---
+layout: default
+id: blog
+---
+<div class="wrapper">
+  {% include top-navi-blog.html %}
+  <div class="row row--full">
+    <div class="column column--center medium-12 large-10">
+      <div class="post" style="top: unset;">
+        {% for post in site.categories.blog %}
+          {% include blog-item.html %}
+        {% endfor %}
+      <div>
+    </div>
+  </div> <!-- row-->
+</div> <!-- wrapper -->

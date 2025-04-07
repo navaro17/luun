@@ -1,0 +1,11 @@
+<article>
+  <div class="blog-item">
+    <header class="post__header">
+      <h2 class="post__title" itemprop="name headline">
+      <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
+      </h2>
+      <div class="blog-item__meta"><span class="blog-item__meta__date">{{ post.date | date: "%b %-d, %Y" }}</span></div>
+      <!-- <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time> -->
+    </header>
+  </div>
+</article>

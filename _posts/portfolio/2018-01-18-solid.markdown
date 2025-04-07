@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Solid"
+thumb: /assets/images/posts/thumbs/solid_thumb.jpg
+categories:
+ - portfolio
+description:
+featured:
+author: 
+tags:
+ - for-more
+---
+
+Surrounded by an urban garden, on the 1st floor of a relatively indifferent building in the center of Faros Psychikou, [SOLID](https://www.solid.com.gr/), making its own aesthetic statement in the northern suburbs of Athens, is a 5-time venue award-winning space that is ideal for hosting all kinds of events.
+
+<p class="credits">
+    <span class="title">Design</span>
+        <span class="contributor"><a href="http://www.workroom2.com/">Workroom2</a></span>
+    <span class="title">Construction</span>
+        <span class="contributor"><a href="https://www.solid.com.gr/">SOLID</a></span>
+    <span class="title">Photos</span>
+        <span class="contributor"><a href="https://www.marianabisti.com/">Mariana Bisti</a></span>
+</p>
+
+![alt text]({{ site.baseurl }}/assets/images/posts/solid-01.jpg "Solid")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/solid-02.jpg "Solid")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/solid-03.jpg "Solid")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/solid-04.jpg "Solid")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/solid-05.jpg "Solid")

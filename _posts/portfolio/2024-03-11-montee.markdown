@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Montėe Authentic Pastries"
+thumb: /assets/images/posts/thumbs/montee-01_thumb.jpg
+categories:
+ - portfolio
+description:
+featured:
+author: 
+tags:
+ - the-shop
+---
+
+Patisserie in Aliartos.
+
+<p class="credits">
+    <span class="title">Architects</span>
+        <span class="contributor"><a href="https://www.a-plusarchitects.com/">a+ architects</a></span>
+        <span class="contributor">Ioannis Zacharakis</span>
+    <span class="title">Photos</span>
+        <span class="contributor"><a href="https://avgerinou.com/">Katerina Avgerinou</a></span>
+</p>
+
+![alt text]({{ site.baseurl }}/assets/images/posts/montee-01.jpg "Montėe Authentic Pastriess")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/montee-02.jpg "Montėe Authentic Pastries")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/montee-03.jpg "Montėe Authentic Pastries")

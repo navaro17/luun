@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Rotunda"
+thumb: /assets/images/posts/thumbs/rotunda_thumb.jpg
+categories:
+ - portfolio
+description:
+featured:
+author: 
+tags:
+ - the-culture
+---
+
+Took the second place 🥈 at the 2016 Darc Awards in the category best interior lighting scheme, low budget. One of the most important Roman monuments in Thessaloniki.
+
+<p class="credits">
+    <span class="title">Client</span>
+        <span class="contributor">Ministry of Culture</span>
+        <span class="contributor">Ephorate of Antiquities of Thessaloniki City</span>
+    <span class="title">Director</span>
+        <span class="contributor">Stamatios Th. Chondrogiannis</span>
+    <span class="title">Photos</span>
+        <span class="contributor"><a href="http://www.studio8photos.com/">Studio 8 Photos</a></span>
+</p>
+
+![alt text]({{ site.baseurl }}/assets/images/posts/rotunda-08.jpg "Rotunda")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/rotunda-02.jpg "Rotunda")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/rotunda-03.jpg "Rotunda")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/rotunda-09.jpg "Rotunda")

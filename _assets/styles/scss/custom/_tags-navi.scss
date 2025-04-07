@@ -1,0 +1,45 @@
+//---------------------------
+// Tags navigation
+//---------------------------
+
+.secondary-menu {
+  padding-top: 5px;
+  select {
+  display: none;
+  @media #{$medium-down} {
+      display: block;
+      font-size: $font-size__small;
+      // vertical-align: top;
+    }
+  }
+} 
+
+.tags-navi {
+  line-height: $line-height__medium;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  li {
+    display: inline-block;
+    margin-right: 15px;
+    font-size: $font-size__small;
+    vertical-align: top;
+    &::before {
+      content: '·';
+      display: inline-block;
+      width: 15px;
+      margin-left: -10px;
+    }
+  }
+  @media #{$medium-down} {
+      display: none;
+    }
+}
+
+.icon--ei-pointer .icon__cnt {
+  transform: rotate(90deg);
+}
+
+.active {
+  font-weight: $font-weight__bold;
+}

@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Theiko"
+thumb: /assets/images/posts/thumbs/theiko_thumb.jpg
+categories:
+ - portfolio
+description:
+featured:
+author: 
+tags:
+ - the-fun
+---
+
+Coffee shop and fast food restaurant in downtown Athens.
+
+<p class="credits">
+    <span class="title">Client</span>
+        <span class="contributor"><a href="https://www.facebook.com/theikogr/">Theiko</a></span>
+    <span class="title">Design</span>
+        <span class="contributor"><a href="http://www.workroom2.com/">Workroom2</a></span>
+    <span class="title">Photos</span>
+        <span class="contributor"><a href="https://www.marianabisti.com">Mariana Bisti</a></span>
+</p>
+
+![alt text]({{ site.baseurl }}/assets/images/posts/theiko-01.jpg "Theiko")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/theiko-02.jpg "Theiko")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/theiko-03.jpg "Theiko")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/theiko-04.jpg "Theiko")

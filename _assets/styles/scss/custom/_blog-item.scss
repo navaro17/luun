@@ -1,0 +1,21 @@
+//---------------------------
+// Listing item
+//---------------------------
+
+.blog-item {
+  margin-bottom: $line-height__medium;
+  padding-bottom: $line-height__medium;
+  border-bottom: 1px solid $border-color;
+
+  &__meta {
+    margin-bottom: quarter($line-height__base);
+    font-size: $font-size__small;
+    line-height: $line-height__small;
+    color: $color__base--hover;
+  }
+
+  @media #{$large-up} {
+    margin-bottom: $line-height__base;
+    padding-bottom: $line-height__base;
+  }
+}

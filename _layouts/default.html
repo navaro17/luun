@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include analytics.html %}
+    <div class="off-canvas-container">
+      {% include sidebar.html %}
+      {{ content }}
+    </div>
+    <script src="{{ '/assets/js/main.min.js' | prepend: site.baseurl }}"></script>
+    {% if page.id == "index" or page.tag == "the-office" or page.tag == "the-shop" or page.tag == "the-stay" or page.tag == "the-home" or page.tag == "the-fun" or page.tag == "the-culture" or page.tag == "for-more" %}
+    {% include scroll-to-top.html %}
+    {% endif %}
+  </body>
+</html>

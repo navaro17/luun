@@ -1,0 +1,57 @@
+---
+layout: post
+title: "Cyprus Cancer Research Institute (CCRI)"
+thumb: /assets/images/posts/thumbs/ccri-01_thumb.jpg
+categories:
+ - portfolio
+description:
+featured:
+author: 
+tags:
+ - for-more
+---
+
+<p class="credits">
+    <span class="title">Architects</span>
+        <span class="contributor"><a href="http://www.kokkinoukourkoulas.com/en/">Maria Kokkinou, Andreas Kourkoulas</a></span>
+    <span class="title">Project Lead</span>
+        <span class="contributor">Nicholas Paplomatas</span>
+    <span class="title">Architectural Consultant</span>
+        <span class="contributor">Yiannis Peponis</span>
+    <span class="title">Associate Architects</span>
+        <span class="contributor">George Athanasios Nikopoulos, Aristidis Sevdalis</span>
+    <span class="title">Local Associate Architects</span>
+        <span class="contributor">Christos H. Chrysanthou & Associates</span>
+    <span class="title">Energy Consultant</span>
+        <span class="contributor">Aris Tsagkrasoulis</span>
+    <span class="title">Biology Consultants</span>
+        <span class="contributor">Charalambos Savvakis, Julian Downward</span>
+    <span class="title">LEED Consultant</span>
+        <span class="contributor">DCARBON</span>
+    <span class="title">Structural Engineering</span>
+        <span class="contributor">A. Karanikolas & Associates SA</span>
+    <span class="title">Electromechanical Engineering</span>
+        <span class="contributor">Kamarinos Engineers</span>
+    <span class="title">Construction</span>
+        <span class="contributor">Diolkos Development IKE</span>
+    <span class="title">Landscape Architecture</span>
+        <span class="contributor">H. Pangalou & Associates</span>
+    <span class="title">Lead Landscape Architect</span>
+        <span class="contributor">Peny Krikou</span>
+    <span class="title">Photography</span>
+        <span class="contributor"><a href="https://www.marianabisti.com/">Mariana Bisti</a></span>
+    <span class="title">Owner</span>
+        <span class="contributor">University of Cyprus</span>
+    <span class="title">Donor</span>
+        <span class="contributor">George and Kaity David Foundation</span>
+</p>
+
+![alt text]({{ site.baseurl }}/assets/images/posts/ccri-01.jpg "Cyprus Cancer Research Institute (CCRI)")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/ccri-02.jpg "Cyprus Cancer Research Institute (CCRI)")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/ccri-03.jpg "Cyprus Cancer Research Institute (CCRI)")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/ccri-04.jpg "Cyprus Cancer Research Institute (CCRI)")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/ccri-05.jpg "Cyprus Cancer Research Institute (CCRI)")

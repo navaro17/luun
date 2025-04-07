@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Blum"
+thumb: /assets/images/posts/thumbs/blum_thumb.jpg
+categories:
+ - portfolio
+description:
+featured: 
+author: 
+tags:
+ - the-office
+---
+
+The Headqurters of BLUM HELLAS SA located in Paiania, an eastern suburb of Athens.
+
+<p class="credits">
+    <span class="title">Architects</span>
+        <span class="contributor"><a href="https://www.mtarchitects.gr/">MTarchitects</a></span>
+    <span class="title">E/M Engineering</span>
+        <span class="contributor"><a href="http://kamarinos.com/">PG Kamarinos consulting engineers</a></span>
+    <span class="title">Landscape Design</span>
+        <span class="contributor">Katerina Goltsiou</span>
+    <span class="title">Contractor</span>
+        <span class="contributor"><a href="http://www.ekter.gr/">EKTER SA</a></span>
+    <span class="title">Photos</span>
+        <span class="contributor"><a href="http://www.benetos.com/">Dimitris Benetos</a></span>
+</p>
+
+![alt text]({{ site.baseurl }}/assets/images/posts/blum-01.jpg "Blum")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/blum-02.jpg "Blum")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/blum-04.jpg "Blum")
+
+![alt text]({{ site.baseurl }}/assets/images/posts/blum-06.jpg "Blum")
