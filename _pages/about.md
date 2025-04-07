@@ -21,11 +21,9 @@ Architectural lighting requires meticulous planning to achieve optimal results. 
 
 #### 02 On-site implementation
 
-##### Construction Supervision
-To ensure the design is adhered to and prevent any installation errors, our engineers oversee and supervise the lighting system implementation. They conduct regular on-site inspections, monitor the progress of the project, identify and resolve any problems that may occur. At this stage you are provided with regular progress reports and implementation deliverables.
+Construction Supervision: To ensure the design is adhered to and prevent any installation errors, our engineers oversee and supervise the lighting system implementation. They conduct regular on-site inspections, monitor the progress of the project, identify and resolve any problems that may occur. At this stage you are provided with regular progress reports and implementation deliverables.
 
-##### Final Commissioning
-Our commitment to excellence extends to the last step: final commissioning. Before site handover, our technical team conducts rigorous testing and adjustment of the installed fixtures according to the specifications of the lighting plans (orientation, accessory control, and more). This crucial phase of verification ensures the results meet and exceed expectations by providing the perfect ambiance and functionality you envisioned.
+Final Commissioning: Our commitment to excellence extends to the last step: final commissioning. Before site handover, our technical team conducts rigorous testing and adjustment of the installed fixtures according to the specifications of the lighting plans (orientation, accessory control, and more). This crucial phase of verification ensures the results meet and exceed expectations by providing the perfect ambiance and functionality you envisioned.
 
 #### 03 Procurement
 
